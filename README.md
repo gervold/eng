@@ -22,3 +22,21 @@ But everyone can read and use my notes.
  - [Conditionals](conditionals/)
  - [Other](other/)
 
+
+### My goals
+1. Repeat Intermediate level (B1) grammar _<-- I am here_
+2. Learn Upper-Intermediate level (B2) grammar _<-- and here :)_
+3. Learn Intermediate level (C1) grammar
+4. Use learned grammar in my daily speech
+5. Extend vocabulary 
+6. Use learned vocabulary in my daily speech
+
+### My rules
+1. Write new grammar after each lesson with teacher
+2. Write grammar after self-study
+3. Organize and keep easy access to English Repo
+4. Review grammar every week on your own
+5. Try to use grammar in daily speech and writing
+6. Synch notes with Google Translate*
+7. Write irregular verbs, phrasal verbs and idioms
+8. Try to use new vocabulary in daily speech and writing
