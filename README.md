@@ -25,11 +25,12 @@ I'm not sure you'll find anything useful here, but I hope so :)
 6. Use learned vocabulary in my daily speech
 
 ### My rules
-1. Write new grammar after each lesson with teacher
-2. Write grammar after self-study
+1. Write (commit) new grammar after each lesson with teacher
+2. Write (commit) grammar after self-study
 3. Organize and keep easy access to English Repo
 4. Review grammar every week on your own
 5. Try to use grammar in daily speech and writing
 6. Synch notes with Google Translate*
 7. Write irregular verbs, phrasal verbs and idioms
 8. Try to use new vocabulary in daily speech and writing
+9. Write essays on everyday topics with new grammar and new vocabulary
