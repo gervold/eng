@@ -1,58 +1,57 @@
-### Relative clause or Adjective clause or Attributive clause
+### Relative Clause
 
-This is the women who lives next door to me.
+**Example:**
+
+This is the women **who** _lives_ next door to me.
 
 who – relative noun  
 who lives next door to me – relative clouse
 
-This man is tall.  
-The tall man  
-The man who is tall spoke to me.  
+#### Relative pronouns 
+- Who
+- Whom
+- Whose
+- When
+- Where
+- That
+- Which
 
-Yesterday, the president made an announcement about gay rights, which is what I told you about earlier.
+#### Who vs whom vs whose:  
+He, she, they (Subjects)—> **Who**  
+Him, her, us (Objects) —> **Whom**  
+His, our (Possessive) —> **Whose**  
 
-#### Restrictive (Essential) Relative Clauses
+
+#### 2. Defining and Non-Defining RC
+
+**Defining:**  
+a: "Where does your wife work?"  
+b: "She works for a company that sells medical equipment."
 
 The woman who lives next door to me is a doctor.  
-
-The woman is a doctor. ????? Who?
+The woman is a doctor. ????? Who? ("who lives next door to me" – Important information)  
 
 If we take out the relative clause, then it is difficult to identify who the speaker is talking about.
 
-#### Non-Restrictive (Non-essential) Relative Clause
 
-My brother, who is older than me, works for a construction company.
-My brother works for a construction company.
+**Non-Defining:**  
+a: "What does your brother do?"  
+b: "My brother, who lives in Australia, is a Doctor.  
 
+My brother, who is older than me, works for a construction company.  
+My brother works for a construction company.  
 
-The car that is in the parking lot is mine.
-My car, which is red, is great.
+In a defining clause, use **that**.  
+In non-defining clauses, use **which**.  
 
-that - in restrictive relative clouses
-which - in non restrictive relative clouses
+#### 3. Subject and Object RC 
+_ref: Unit 93_
 
+#### Subject Pronoun
+This woman is a doctor **who** works at the hospital close to us.  
+(I ca**n't** **drop** who)  
 
-#### Subject Relative Pronoun
-
-This is the woman who lives next door.  
-This is the woman.
-
-Children who hate chocolate are uncommon.
-Children hate chocolate are uncommon.
-
-Unit 93
-who - subject
-
-The woman lives next door.
-
-
-#### Object Relative clause
-
-The woman who I wanted to see came to my office.
-The woman came to my office.
-I wanted to see the woman (who)
-The woman ___ I wanted to see came to my office.
-
-Sorry for being late.
-Sorry that I'm late.
-Sorry I'm late.
+#### Object Pronoun
+Do you have the keys that I lost?    
+Do you have the keys I lost?   
+(I **can drop** that)  
