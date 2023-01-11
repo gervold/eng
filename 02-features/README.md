@@ -1,12 +1,47 @@
 ### Narrative tenses
 
+Narrative tenses are verb tenses that are used to talk about the past. 
+
 Past Simple, Past Continuous, Past Perfect
 
 
-### Present Perfect Continuous
+| |Past Simple|Present Perfect Simple|
+|----|------|----|
+|Description: |Completed events in the past  |Completed events in the undefined past.|
+|Example: |I watched House of the Dragon last weekend.  |I have watched House of the Dragon.  |
+| |--------------- action end time -------------- now-->|----------------------------------action end--now->|
 
-- I have been coming here from a far city.
-- I’ve been talking with Denis about future of our project on the way from Bankok to Pattaya.
-- Where have you been? I’ve been looking for you everywhere.
-- How long have you been learning Thai language ? 
+Past simple Time phrases:  
+• yesterday  
+• last week/summer/year/etc  
+• in January/2001/etc  
+• an hour/a week/a year ago  
 
+
+| |Present Perfect|Present Perfect Continuous|
+|----|------|----|
+|Description: |We can use the present perfect simple for how many times we have done something in the past. But these events are separated. |We can use the present perfect continuous for actions that started in the past and continued UNINTERRUPTED until now.|
+|Example: |1 ..... 2 ..... 3.... now I have travelled 3 times.  |past -----------> now I have been playing football.  |
+
+#### Examples:
+
+I have known Brett for 2 years  
+
+like belong have (possession)
+
+I have had (possession) a cough for 3 days.  
+I have been having (experiencing) a great time in Thailand.
+
+#### Present Perfect Continuous Examples
+
+I have been to Thailand.  
+I have been thinking about Thailand for 10 years.  
+
+I have known how to write code since 2006. My first line of code was also written in 2006. // also can also be the first word  
+I have been writing code for 16 years.  
+Code has been being written by me for 16 years.  
+
+I have been coming here from a far city.  
+I’ve been talking with Denis about future of our project on the way from Bankok to Pattaya.  
+Where have you been? I’ve been looking for you everywhere.  
+How long have you been learning Thai language ?  
