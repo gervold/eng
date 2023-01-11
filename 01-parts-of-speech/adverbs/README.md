@@ -80,4 +80,53 @@ Adverbs **are** _always_ at the end
 - I read my book _once a month_.
 
 
+### Adverbs of Manner (How)
 
+verb + (object) + adverb of manner
+
+I speak Chinese fluently.  
+I sing amazingly.  
+
+
+#### Quietly
+
+Initial Position: **Quietly**, he left the room.  
+Mid Position: He **quietly** left the room.  
+End Position: He left the room **quietly**.  
+
+Always **at the end** position:  
+fast, well, badly, hard (not hardly!)  
+
+He plays the piano **well**.
+He plays the piano **badly**.  
+
+#### Carefully
+
+He kicked the ball **carefully**.
+
+He announced _that he is leaving his job_ **carefully**.  
+He **carefully** announced that he is leaving his job.  
+Elon Musk **forcefully** announced _that he was going to fire 75% of Twitter's staff as soon as he fully owned Twitter_.  
+
+
+The teacher **quietly** _asked_ the class to finish their game. (teacher speaks quietly)    
+quietly modifies _asked_  
+
+The teacher _asked_ the class to _finish_ their game **quietly**. (class finishes quietly)  
+quietly modifies _finish_.
+(Using for effect, for stories)  
+
+Slowly, carefully, and menacingly, the man walked up to the woman.  
+The man walked up to the woman slowly, carefully, and menacingly.  
+He carefully and quietly spoke to her.  
+
+angrily  
+carefully  
+quickly  
+well  
+silently  
+dangerously  
+
+1. Silently, I walked via the old ancient city.  
+2. You must go carefully because there are a lot of wild dogs on the way.  
+3. I know English well (a joke).  
