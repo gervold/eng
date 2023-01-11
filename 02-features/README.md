@@ -18,6 +18,10 @@ Past simple Time phrases:
 • an hour/a week/a year ago  
 
 
+#### Present Perfect Continuous:
+
+have + been + ing  
+
 | |Present Perfect|Present Perfect Continuous|
 |----|------|----|
 |Description: |We can use the present perfect simple for how many times we have done something in the past. But these events are separated. |We can use the present perfect continuous for actions that started in the past and continued UNINTERRUPTED until now.|
@@ -27,10 +31,15 @@ Past simple Time phrases:
 
 I have known Brett for 2 years  
 
+I have been thinking about elephants.
+I have been thinking about elephants, and I have decided that I want to buy one.
+
 like belong have (possession)
 
 I have had (possession) a cough for 3 days.  
 I have been having (experiencing) a great time in Thailand.
+
+I have made a route through the main attractions (Present Perfect)
 
 #### Present Perfect Continuous Examples
 
@@ -45,3 +54,36 @@ I have been coming here from a far city.
 I’ve been talking with Denis about future of our project on the way from Bankok to Pattaya.  
 Where have you been? I’ve been looking for you everywhere.  
 How long have you been learning Thai language ?  
+
+#### PP Continuous for actions
+
+He has been reading this book for 3 years.
+He has been reading this book since 2019.
+
+#### PP Simple for states or conditions
+
+He has known her for 3 years.
+He has known her since 2019.
+
+
+For some verbs, we can use both cases. 
+
+For example:  
+He has worked here for 10 years. (acceptable)  
+He has been working here for 10 years. (better)  
+
+He has been working there for his whole life.  
+He has worked there for his whole life.  
+
+birth--------------------------------------------------now.  
+
+vineyard  
+plant a vineyard -> grow grapes  
+He has been planting grapes since 1990.  
+
+The boy has been naughty this week. (not finished!)  
+start of the week ---------------------------------------------end of the week -------------------------------now---------->
+
+### Other
+
+I was riding on an elephant when I called my teacher 
