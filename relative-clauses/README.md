@@ -55,3 +55,36 @@ This woman is a doctor **who** works at the hospital close to us.
 Do you have the keys that I lost?    
 Do you have the keys I lost?   
 (I **can drop** that)  
+
+#### Hard examples (with whom):
+
+(from Murphy)
+
+The person from __???__ I bought my car is a friend of my father’s.  
+
+The person is a friend of my father's.  
+I bought my car from **him**.  
+
+The person from **whom** I bought my car is a friend of my father’s.  
+
+Mr Lee, to **whom** I spoke at the meeting, is interested in our proposal.    
+Mr. Lee is interested in our proposal.  
+I spoke at the meeting to **him**.  
+
+#### About which position
+
+**which** can be before RC and can be at the end RC   
+
+The camera records the time **when** _the photo is taken_.  
+The camera records the time **at which** _the photo is taken_.  
+The camera records the time **which** _the photo is taken_ **at**.
+
+during - always before RC
+
+#### About during position
+
+During - always before RC
+
+This is the time **during** _which you can study_.  
+This is the time.  
+You can study during this time.  
