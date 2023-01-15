@@ -27,7 +27,7 @@ I'm not sure you'll find anything useful here, but I hope so :)
 ### My rules
 1. Write (commit) new grammar after each lesson with teacher
 2. Write (commit) grammar after self-study
-3. Organize and keep easy access to English Repo
+3. Organize and keep easy access to English Repo (for easy repeating)
 4. Review grammar every week on your own
 5. Try to use grammar in daily speech and writing
 6. Synch notes with Google Translate*

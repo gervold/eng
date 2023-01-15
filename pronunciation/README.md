@@ -12,6 +12,8 @@ repository = Re - poz - zit - tree
 tortoise = tor - tis (land)  
 turtle = tur - til (water)  
 
+vineyard = vin - yid
+
 Indonesia = [Indonija]
 Malaysia = [Malaija]
 
