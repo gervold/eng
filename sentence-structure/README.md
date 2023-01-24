@@ -1,1 +1,1 @@
-You can see: [Adverbs](../01-parts-of-speech/adverbs)
+You can see: [Adverbs](../parts-of-speech/adverbs)

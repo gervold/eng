@@ -4,16 +4,16 @@ Here I will write my English grammar notes.
 I'm not sure you'll find anything useful here, but I hope so :)
 
 ## Table of contents:
- - [00. Vocabulary](00-vocabulary/)
- - [01. Parts of speech](01-parts-of-speech/)
- - [02. Features](02-features/)
- - [03. Modals](03-modals/)
- - [04. Questions](04-questions/)
- - [05. Articles](05-articles/)
- - [06. Gerund, -ing and Infinitive](06-gerund-ing-infinitive/)
- - [Reported speach](reported-speach/)
- - [Relative clauses](relative-clauses/)
- - [Conditionals](conditionals/)
+ - [00. Vocabulary](vocabulary/)
+ - [01. Parts of speech](parts-of-speech/)
+ - [02. Features](features/)
+ - [03. Modals](modals/)
+ - [04. Conditionals](conditionals/)
+ - [05. Reported speach](reported-speach/)
+ - [06. Gerund, -ing and Infinitive](gerund-ing-infinitive/)
+ - [07. Articles](articles/)
+ - [08. Relative clauses](relative-clauses/)
+ - [09. Questions](questions/)
  - [Other](other/)
  
 ### My goals
