@@ -35,6 +35,23 @@ would + verb_
 _Past Perfect  
 would have + past participle_ 
 
+---
+
+### Mixed Conditionals
+
+Mixed conditionals are a combination of two types of conditional patterns, usually second and third conditionals.  
+We can have:
+- a third conditional in the if clause and a second conditional in the main clause  
+- or a second conditional in the if clause and a third conditional in the main clause.
+
+https://www.englishpage.com/conditional/mixedconditional.html
+
+_If + past perfect, would + verb_
+
+
+Examples:
+- If I hadn't shot that man, I wouldn't be in jail.
+- If I hadn't had a fight last week I wouldn't have a black eye. 
 
 --- 
 
