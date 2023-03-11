@@ -37,6 +37,14 @@ would have + past participle_
 
 ---
 
+### Comparing 2 and 3 Conditional
+
+Compare:
+ - I'**m not** hungry. If I **was** hungry, I **would eat** something. (_now_)
+ - I **wasn't** hungry. If I **had been** hungry, I **would have eaten** something. (_past_)
+
+---
+
 ### Mixed Conditionals
 
 Mixed conditionals are a combination of two types of conditional patterns, usually second and third conditionals.  
