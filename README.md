@@ -17,12 +17,13 @@ I'm not sure you'll find anything useful here, but I hope so :)
  - [Other](other/)
  
 ### My goals
-1. Repeat Intermediate level (B1) grammar _<-- I am here_
-2. Learn Upper-Intermediate level (B2) grammar _<-- and here :)_
-3. Learn Intermediate level (C1) grammar
-4. Use learned grammar in my daily speech
-5. Extend vocabulary 
-6. Use learned vocabulary in my daily speech
+1. Repeat Intermediate level (B1) grammar 
+2. Learn Upper-Intermediate level (B2) grammar _<-- I am here_
+3. Learn Advanced level (C1) grammar _<-- and here :)_
+4. Learn Proficient level (C2) grammar
+5. Use learned grammar in my daily speech
+6. Extend vocabulary 
+7. Use learned vocabulary in my daily speech
 
 ### My rules
 1. Write (commit) new grammar after each lesson with teacher
