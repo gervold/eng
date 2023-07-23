@@ -11,7 +11,23 @@ Reason of Misunderstanding:
 
 
 ### 1. Accent
-  
+
+The native speakers distribution pie:
+
+![.png](native_pie.png)
+
+![img_1.png](native_pie_legend.png)
+
+Main accents:
+- British
+- American
+- Canadian
+- Australian
+- New Zealand
+- South African
+
+Also, Scottish, Indian, Singaporean, Irish, etc.
+
 Zulu or Xhosa: 
 
 feedback -> Fidback,  
